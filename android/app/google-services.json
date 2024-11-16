@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096380473742",
+    "project_id": "attendance-system-fc3c8",
+    "storage_bucket": "attendance-system-fc3c8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096380473742:android:79fcaa0dd7bfa6e94344df",
+        "android_client_info": {
+          "package_name": "com.soldier.attendance_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHVZveSZwWTChSGLXobK2ks2koFWgOGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
